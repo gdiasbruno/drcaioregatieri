@@ -1,0 +1,21 @@
+a {
+  font-family: sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  color: white;
+}
+
+a:hover {
+  color:#99b898;
+  text-decoration: none;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+body {
+  background-color: #e4e4e4;
+}
