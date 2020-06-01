@@ -19,3 +19,7 @@ a:hover {
 body {
   background-color: #e4e4e4;
 }
+
+.sensor {
+  width: 100%;
+}
