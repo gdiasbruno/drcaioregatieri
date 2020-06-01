@@ -23,6 +23,10 @@ body {
 .sensor {
   width: 500px;
 }
+
+#carouselExampleControls {
+  text-align: center;
+}
 @media screen and (max-width: 700px) {
   .sensor {
     width: 370px;
