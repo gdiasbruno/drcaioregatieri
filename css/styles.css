@@ -21,5 +21,10 @@ body {
 }
 
 .sensor {
-  width: 100%;
+  width: 500px;
+}
+@media screen and (max-width: 700px) {
+  .sensor {
+    width: 370px;
+  }
 }
